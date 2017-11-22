@@ -1,2 +1,1 @@
-# bootstrap-video-gallery-for-wordpress
-Bootstrap Video Gallery For WordPress
+# Bootstrap Video Gallery For WordPress
